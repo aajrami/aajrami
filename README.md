@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://img.shields.io/github/followers/aajrami?label=GitHub&style=social
+<p align="center">
+	<a href="https://github.com/aajrami"><img src="https://img.shields.io/github/followers/aajrami?label=GitHub&style=social" alt="GitHub"></a>
+</p>
 <!--
 **aajrami/aajrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
